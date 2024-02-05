@@ -8,3 +8,23 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 </div>
 
+# Project preview
+
+<div align="center">[ HOME PAGE ]</div>
+<br>
+<div align="center">
+	<img src="https://github.com/Professor-codes/AUTOFLAX-CARENT/assets/126326997/68ac164a-0a51-449a-9dc8-cc3e69d0c2e1" alt="home-page" />&nbsp;
+</div>
+<br>
+<div align="center">[ ABOUT PAGE ]</div> 
+<br>
+<div align="center">
+	<img src="https://github.com/Professor-codes/AUTOFLAX-CARENT/assets/126326997/e819094b-4562-4ee0-997f-bae2e3496919" alt="about-page" />&nbsp;
+</div><br>
+<br>
+<div align="center">[ CONTACT PAGE ]</div> 
+<br>
+<div align="center">
+	<img src="https://github.com/Professor-codes/AUTOFLAX-CARENT/assets/126326997/c0ca75d5-53c9-409c-902d-c751cd660748" alt="contact-page" />&nbsp;
+</div><br>
+<br>
